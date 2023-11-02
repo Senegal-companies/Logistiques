@@ -1,0 +1,59 @@
+{
+  "Afrety": {
+    "logo": "/assets/img_2.png",
+    "name": "Afrety",
+    "location": "Senegal, Dakar",
+    "email": "contact@afrety.com",
+    "website": "https://www.afrety.com/",
+    "phone1": "338644037"
+  },
+  "CarrapidePrestige": {
+    "logo": "/assets/img_6.png",
+    "name": "Carrapide Prestige",
+    "location": "Senegal, Dakar",
+    "email": "",
+    "website": "https://carrapideprestige.com/",
+    "phone1": "221338200666"
+  },
+  "Chargel": {
+    "logo": "/assets/img_1.png",
+    "name": "Chargel",
+    "location": "Friendship 3 Thiargane Building",
+    "email": "",
+    "website": "https://www.chargel.me/",
+    "phone1": "339232222"
+  },
+  "Oui Cary": {
+    "logo": "/assets/img_4.png",
+    "name": "Oui Cary",
+    "location": "Sacré Coeur 3, villa 9157 Rue RC 17, Dakar, SENEGAL",
+    "email": "contact@ouicarry.com",
+    "website": "https://www.ouicarry.com/",
+    "phone1": "221774661616"
+  },
+  "Paps": {
+    "logo": "/assets/img.png",
+    "name": "Paps",
+    "location": "Cité Keur Gorgui Imm Elysée 2",
+    "email": "contact@papslogistics.com",
+    "website": "https://papslogistics.com/",
+    "phone1": "221339232323"
+  },
+  "Shopmeaway": {
+    "logo": "/assets/img_3.png",
+    "name": "Shopmeaway",
+    "location": "MerMoz",
+    "email": "contact@shopmeaway.com",
+    "website": "https://www.shopmeaway.com/",
+    "phone1": ""
+  },
+  "YobanteExpress": {
+    "logo": "/assets/img_5.png",
+    "name": "Yobante Express",
+    "location": "Ouest Foire Sur la VDN, Villa numero 6 (en face impots et domaine), Dakar, Dakar 12500, SN",
+    "email": "info@yobanteexpress.com",
+    "website": " https://www.yobanteexpress.com/#/accueil",
+    "phone1": "221338248142",
+    "phone2": "221785327909"
+  }
+}
