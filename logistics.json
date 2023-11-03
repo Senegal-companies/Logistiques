@@ -31,6 +31,14 @@
     "website": "https://www.dhl.com/sn-fr/home.html ",
     "phone1": "338691111"
   },
+  "DP WORLD": {
+    "logo": "/assets/img_10.png",
+    "name": "DP WORLD",
+    "location": "Senegal, Dakar",
+    "email": "customerservice.dakar@dpworld.sn",
+    "website": "https://www.dpworld.com/dakar",
+    "phone1": "338890820"
+  },
   "Flit africa": {
     "logo": "/assets/img_8.png",
     "name": "Flit africa",
