@@ -23,6 +23,14 @@
     "website": "https://www.chargel.me/",
     "phone1": "339232222"
   },
+  "DHL Senegal": {
+    "logo": "/assets/img_7.png",
+    "name": "DHL Senegal",
+    "location": "MGRH+RP2, Dakar 19024",
+    "email": "",
+    "website": "https://www.dhl.com/sn-fr/home.html ",
+    "phone1": "338691111"
+  },
   "Oui Cary": {
     "logo": "/assets/img_4.png",
     "name": "Oui Cary",
