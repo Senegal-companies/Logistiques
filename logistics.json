@@ -7,6 +7,14 @@
     "website": "https://www.afrety.com/",
     "phone1": "338644037"
   },
+  "Bolloré": {
+    "logo": "/assets/img_11.png",
+    "name": "Bolloré",
+    "location": "Senegal, centenaire Dakar",
+    "email": "sales.senegal@bollore.com",
+    "website": "https://www.bollore-transport-logistics.com/",
+    "phone1": ""
+  },
   "CarrapidePrestige": {
     "logo": "/assets/img_6.png",
     "name": "Carrapide Prestige",
