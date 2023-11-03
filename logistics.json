@@ -55,6 +55,14 @@
     "website": "https://www.shopmeaway.com/",
     "phone1": ""
   },
+  "Transglobal": {
+    "logo": "/assets/img_8.png",
+    "name": "Transglobal",
+    "location": "Immeuble P/93 - 3eme étage Hann Mariste, Dakar",
+    "email": "contact@transglobal.sn ",
+    "website": "https://www.transglobal.sn/groupage-degroupage/",
+    "phone1": "221338320309"
+  },
   "YobanteExpress": {
     "logo": "/assets/img_5.png",
     "name": "Yobante Express",
